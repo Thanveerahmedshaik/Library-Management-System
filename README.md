@@ -451,8 +451,8 @@ LIMIT 3
 
 **Task 18: Stored Procedure**
 Objective:
-Create a stored procedure to manage the status of books in a library system.
-Description:
+Create a stored procedure to manage the status of books in a library system.<br />
+Description:<br />
 Write a stored procedure that updates the status of a book in the library based on its issuance. The procedure should function as follows:
 The stored procedure should take the book_id as an input parameter.
 The procedure should first check if the book is available (status = 'yes').
