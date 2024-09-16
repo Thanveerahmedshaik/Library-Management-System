@@ -8,7 +8,7 @@
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
-![Library_project](https://github.com/Thanveerahmedshaik/Netflix-SQL-Project/blob/main/logo.png)
+![Library_project](https://github.com/Thanveerahmedshaik/Credit_card_Dashboard_Financial/blob/main/Credit_Card_Report_customer.pdf)
 
 ## Objectives
 
